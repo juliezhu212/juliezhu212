@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is Xinyi. I wanted to write a README but I wasn't sure what to put.
 
 <!--
 **juliezhu212/juliezhu212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
